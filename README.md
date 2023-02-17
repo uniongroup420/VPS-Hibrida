@@ -5,7 +5,7 @@
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/kiritosshxd/SSHPLUS/master/Plus && chmod 777 Plus && ./Plus
 ````
 
-# 📜 Painel Gestor 2022
+# 📜 Painel Gestor Swit-T 2022
 ````
 apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/raw/main/gestorssh/instpainel.sh)
 ````
