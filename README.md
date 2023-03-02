@@ -22,6 +22,3 @@ apt install dos2unix -y; wget https://github.com/JeanRocha91x/MenuApache/raw/mai
 # Extras 
 ⏩ <b>GRUPO DO TELEGRAM</b> - https://t.me/CanalJeanRocha </br>
 ⏩ <b>GRUPO PARCEIRO</b> - https://t.me/helpvpnsuporte </br>
-⏩ <b>CURSO VPN MONEY</b> - https://kiwify.app/NKl55g5 </br>
-⏩ <b>SEJA UM APOIADOR</b> - https://www.patreon.com/SwitVPNPro </br>
-⏩ <b>CANAL DO YOUTUBE</b> - https://bit.ly/CanalJeanRocha </br>
